@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פינה מירושלים מציגה אוסף ייחודי של ציורי אמנות יהודית למכירה. כל יצירה נושאת את רוח ירושלים ומביאה יופי אותנטי לביתך. גלה, התאהב, רכוש עכשיו.
+
+### אודות
+https://example.com/about
+הכירו את הלב הפועם של פינה מירושלים — פלטפורמה שנולדה מתשוקה לאמנות יהודית אותנטית. גלו את החזון, הערכים והאנשים שמחברים אמנים ואספנים בכל רחבי העולם.
+
+### מדריך לאספנים
+https://example.com/collector-guide
+המדריך המקיף לאספני אמנות יהודית: כיצד לבחור ציורי אמנות יהודית למכירה, לזהות יצירות איכותיות ולבנות אוסף בעל ערך. מידע מקצועי שיהפוך כל רכישה להשקעה חכמה.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על מכירת ציורים או רוצים לקבל המלצה אישית? צוות פינה מירושלים כאן בשבילכם. צרו קשר עוד היום ונעזור לכם למצוא את יצירת האמנות המושלמת עבורכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - פינה מירושלים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - פינה מירושלים
+
+### Category
+https://example.com/category/:slug
+מוצרים - פינה מירושלים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
